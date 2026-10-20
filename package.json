@@ -1,0 +1,11 @@
+{
+  "name": "smitportal-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix my-react-app run dev",
+    "build": "npm --prefix my-react-app run build",
+    "lint": "npm --prefix my-react-app run lint",
+    "api:dev": "npm --prefix backend run dev",
+    "api:start": "npm --prefix backend start"
+  }
+}
